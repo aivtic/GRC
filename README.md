@@ -69,7 +69,8 @@ Each folder contains weekly assignment instructions in a standardized file named
 - All submissions must be uploaded **in PDF format** via the **ICDFA Student Portal**.
 - **Do not submit any files to this repository**.
 
-Assignments are designed to: ✔ Develop real-world analytical and problem-solving skills  
+Assignments are designed to: 
+✔ Develop real-world analytical and problem-solving skills  
 ✔ Strengthen understanding of governance and compliance frameworks  
 ✔ Foster strategic thinking in risk management and cybersecurity governance
 
