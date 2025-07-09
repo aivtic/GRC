@@ -1,109 +1,152 @@
+**INTERNATIONAL CYBERSECURITY AND DIGITAL FORENSICS ACADEMY (ICDFA)**
 
-```markdown
-# 📘 ICDFA GCR Weekly Assignments
+**Governance, Compliance, and Risk (GCR)**
 
-Welcome to the official repository for **weekly assignments** in the **Governance, Compliance, and Risk (GCR)** track at the **International Cybersecurity and Digital Forensics Academy (ICDFA)**.
+**Program Duration:** 6 Months (26 Weeks)  
+**Total Credit Units:** 22 Units
 
-This repository is maintained to provide students with structured weekly assignment prompts aligned with the 6-month (26 weeks) GCR training program. All submissions are to be uploaded via the **ICDFA Student Portal**. This repository is for assignment prompts only.
+**Course 1: GRC101**
 
----
+**Course Title:** Introduction to Governance, Risk, and Compliance  
+**Credit Units:** 3 Units  
+**Duration:** 4 Weeks
 
-## 🧭 Program Overview
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Overview of GRC Frameworks and Principles | Understanding GRC fundamentals and concepts |
+| 2   | Regulatory Environment and Standards | Key regulations: GDPR, HIPAA, PCI-DSS, ISO standards |
+| 3   | Risk Management Fundamentals | Risk identification, assessment, and mitigation |
+| 4   | Compliance Management and Reporting | Compliance processes and documentation requirements |
 
-- **Track Name**: Governance, Compliance, and Risk (GCR)
-- **Duration**: 6 Months (26 Weeks)
-- **Total Credit Units**: 22 Units
-- **Capstone Project**: Governance, Risk, and Compliance Framework for Simulated Organization
+**Course 2: GRC102**
 
----
+**Course Title:** Information Security Governance  
+**Credit Units:** 3 Units  
+**Duration:** 5 Weeks
 
-## 📚 Courses and Duration
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Principles of Information Security Governance | Frameworks like COBIT, ISO 27001 |
+| 2   | Developing Security Policies and Procedures | Policy creation and implementation |
+| 3   | Roles and Responsibilities in Security Governance | Governance structures and stakeholder engagement |
+| 4   | Monitoring and Auditing Security Controls | Auditing techniques and continuous monitoring |
+| 5   | Case Studies in Security Governance | Analysis of governance failures and successes |
 
-| Course Code | Course Title                                      | Duration | Credit Units |
-|-------------|---------------------------------------------------|----------|---------------|
-| GRC101      | Introduction to Governance, Risk, and Compliance  | 4 Weeks  | 3 Units       |
-| GRC102      | Information Security Governance                   | 5 Weeks  | 3 Units       |
-| GRC103      | Risk Assessment and Management Techniques         | 5 Weeks  | 3 Units       |
-| GRC104      | Compliance Frameworks and Legal Requirements      | 4 Weeks  | 3 Units       |
-| GRC105      | Incident Management and Business Continuity       | 4 Weeks  | 3 Units       |
-| GRC106      | Security Awareness and Training Programs          | 3 Weeks  | 3 Units       |
-| GRC107      | Emerging Trends in Governance, Risk, and Compliance | 2 Weeks | 2 Units       |
-| GRC108      | Capstone Project                                  | 2 Weeks  | 1 Unit        |
+**Course 3: GRC103**
 
----
+**Course Title:** Risk Assessment and Management Techniques  
+**Credit Units:** 3 Units  
+**Duration:** 5 Weeks
 
-## 📁 Repository Structure
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Risk Identification Techniques | Tools and methods for risk detection |
+| 2   | Risk Analysis and Evaluation | Qualitative and quantitative risk analysis |
+| 3   | Risk Treatment Strategies | Risk avoidance, mitigation, transfer, and acceptance |
+| 4   | Risk Monitoring and Reporting | Risk tracking and reporting best practices |
+| 5   | Practical Risk Assessment Workshop | Hands-on risk assessment exercise |
 
-```
+**Course 4: GCR104**
 
-ICDFA-GCR-Weekly-Assignments/
-├── GRC101\_Introduction\_to\_GRC/
-├── GRC102\_Information\_Security\_Governance/
-├── GRC103\_Risk\_Assessment\_and\_Management/
-├── GRC104\_Compliance\_Frameworks\_Legal/
-├── GRC105\_Incident\_Management\_BCP/
-├── GRC106\_Security\_Awareness\_Training/
-├── GRC107\_Emerging\_Trends\_GRC/
-└── GRC108\_Capstone\_Project/
+**Course Title:** Compliance Frameworks and Legal Requirements  
+**Credit Units:** 3 Units  
+**Duration:** 4 Weeks
 
-```
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Overview of Global Compliance Frameworks | GDPR, HIPAA, PCI-DSS, SOX |
+| 2   | Data Privacy Laws and Regulations | Privacy principles and data protection requirements |
+| 3   | Legal Implications of Non-Compliance | Penalties, fines, and legal risks |
+| 4   | Compliance Audit Processes | Preparing for and conducting compliance audits |
 
-Each course folder contains week-by-week assignment prompts (`assignment.md`) based on the curriculum.
+**Course 5: GRC105**
 
----
+**Course Title:** Incident Management and Business Continuity  
+**Credit Units:** 3 Units  
+**Duration:** 4 Weeks
 
-## 📝 Assignment Guidelines
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Incident Response Planning | Developing and implementing incident response plans |
+| 2   | Business Continuity and Disaster Recovery | Strategies to ensure operational resilience |
+| 3   | Crisis Communication and Stakeholder Management | Communication plans and stakeholder coordination |
+| 4   | Incident Handling Exercises | Simulated incident response drills |
 
-- All assignments are structured to reinforce weekly learning objectives.
-- Each assignment includes:
-  - A clear objective
-  - Tasks to complete
-  - Submission instructions
-  - Deadline
-- **All assignment submissions must be made via the [ICDFA Student Portal](https://academy.icdfa.org.ng)**.
-- Do **not** submit any solution files or personal information on GitHub.
+**Course 6: GRC106**
 
----
+**Course Title:** Security Awareness and Training Programs  
+**Credit Units:** 3 Units  
+**Duration:** 3 Weeks
 
-## 🎓 Capstone Project
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Designing Security Awareness Programs | Creating engaging and effective training content |
+| 2   | Behavioral Change and Risk Reduction | Techniques for influencing security behavior |
+| 3   | Evaluating Training Effectiveness | Metrics and feedback mechanisms |
 
-The capstone project (GRC108) is a culmination of all learning across the GCR track. Students will build a comprehensive GRC plan, including:
+**Course 7: GRC107**
 
-- Risk assessment
-- Policy mapping to standards
-- Incident response strategy
-- Business continuity planning
+**Course Title:** Emerging Trends in Governance, Risk, and Compliance  
+**Credit Units:** 2 Units  
+**Duration:** 2 Weeks
 
-📥 All project guides and templates are provided in the `/GRC108_Capstone_Project/` folder.
+| **Week** | **Topics Covered** | **Activities & Outcomes** |
+| --- | --- | --- |
+| 1   | Cybersecurity Risk in Cloud and IoT Environments | Managing risks in evolving technologies |
+| 2   | Regulatory Changes and Future Compliance Challenges | Preparing for upcoming regulations and compliance demands |
 
----
+**Capstone Project: GRC108**
 
-## 📌 Notes
+**Course Title:** Governance, Risk, and Compliance Capstone Project  
+**Credit Units:** 1 Unit  
+**Duration:** 2 Weeks
 
-- This repository is strictly for **assignment prompts** and **course structure**.
-- All intellectual property belongs to **ICDFA** and is meant solely for educational purposes.
-- Students are expected to adhere to the academic integrity and submission guidelines outlined in the [ICDFA Handbook](https://academy.icdfa.org.ng/policy).
+**Description:**  
+Students will develop a comprehensive GRC plan for a simulated organization, including risk assessments, compliance mapping, incident response plans, and security awareness strategies.
 
----
+**Governance, Risk, and Compliance (GRC) Capstone Project**
 
-## 🙌 Contributing
+**Student Guide and Rubric Explanation**
 
-This repository is maintained by ICDFA instructors. If you are a course instructor and wish to update or add new assignments:
+**Introduction**
 
-1. Fork the repository.
-2. Make your changes in a separate branch.
-3. Submit a pull request with a brief description.
+The GRC Capstone Project is designed to synthesize your learning and skills from the Governance, Compliance, and Risk track into a comprehensive, practical application. You will create a GRC framework for a simulated organization, including risk assessments, compliance strategies, and incident management plans.
 
----
+**Project Objectives**
 
-## 📬 Contact
+- Develop a thorough GRC framework tailored to the simulated organization’s context.
+- Identify and analyze risks, proposing effective mitigation strategies.
+- Map organizational policies to relevant compliance standards and regulations.
+- Design detailed incident response and business continuity plans.
+- Produce a clear, professional GRC report suitable for organizational leadership.
+- Present and defend your project findings effectively.
 
-For technical support or academic inquiries, reach out to:
+**Assessment Criteria Explained**
 
-**📧 Email**: support@icdfa.edu.ng  
-**🌐 Website**: [https://icdfa.edu.ng](https://icdfa.edu.ng)
+1. **GRC Framework Development (25%)**
+    - Your framework should cover governance structures, risk management, and compliance mechanisms comprehensively and realistically.
+2. **Risk Assessment & Mitigation (25%)**
+    - Demonstrate accurate identification and evaluation of risks, with practical and prioritized mitigation strategies.
+3. **Compliance Mapping (20%)**
+    - Effectively link policies to applicable laws and standards, showing clear understanding of regulatory requirements.
+4. **Incident Management Planning (15%)**
+    - Provide actionable and detailed incident response and business continuity procedures.
+5. **Reporting & Documentation (10%)**
+    - Your final report should be well-organized, clearly written, and professional in appearance.
+6. **Presentation & Defense (5%)**
+    - Exhibit confidence, clarity, and thorough knowledge when presenting and answering questions.
 
----
+**Tips for Success**
 
-**© 2025 International Cybersecurity and Digital Forensics Academy (ICDFA). All rights reserved.**
-```
+- Start early and maintain detailed notes and documentation throughout the project.
+- Use provided templates and examples as guides.
+- Seek feedback from your mentor or instructors regularly.
+- Practice your presentation to build confidence and clarity.
+
+**Submission Requirements**
+
+- Submit the final GRC report in PDF format by the deadline.
+- Prepare for a live or recorded presentation session with evaluators.
+- Include all supporting documentation and risk assessment worksheets.
+
+**This capstone project is your opportunity to demonstrate your readiness as a professional in governance, risk, and compliance. Approach it with diligence and professionalism.**
