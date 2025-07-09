@@ -94,7 +94,7 @@ Templates, examples, and detailed guidelines will be provided in the **GRC108_Ca
 For academic or technical support:
 
 - 📧 Email: **<support@icdfa.edu.ng>**
-- 🌐 Portal: [icdfa.org.ng](https://icdfa.edu.ng)
+- 🌐 Portal: [icdfa.edu.ng](https://icdfa.edu.ng)
 
 © 2025 International Cybersecurity and Digital Forensics Academy (ICDFA).  
 All rights reserved.
