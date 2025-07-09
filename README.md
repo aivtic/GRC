@@ -91,7 +91,7 @@ Templates, examples, and detailed guidelines will be provided in the **GRC108_Ca
 
 **CONTACT**
 
-For academic or technical support:
+For training or technical support:
 
 - 📧 Email: **<support@icdfa.edu.ng>**
 - 🌐 Portal: [icdfa.edu.ng](https://icdfa.edu.ng)
